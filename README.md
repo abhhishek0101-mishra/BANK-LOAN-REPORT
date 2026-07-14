@@ -12,10 +12,10 @@ The Bank Loan Analysis Dashboard is an interactive business intelligence project
 - Monitor Month-to-Date (MTD) and Month-over-Month (MoM) performance.
 - Build an interactive Tableau dashboard for efficient business reporting and decision-making.
 
-## Tools & Technologies
-- SQL
-- Tableau
-- Microsoft Excel
+## Tech Stack
+- SQL- Data Extraction and KPI calculations
+- Tableau- Interactive dashboard development
+- Microsoft Excel- Data cleaning and preprocess
 
 ## Key Performance Indicators (KPIs)
 - Total Loan Applications
@@ -46,11 +46,20 @@ The Bank Loan Analysis Dashboard is an interactive business intelligence project
 - Created interactive dashboards with filters and drill-down capabilities for deeper business analysis.
 
 ## Skills Demonstrated
-- SQL
-- Tableau
+- SQL Query Writing
+- Data Cleaning
+- KPI Development
+- Tableau Dashboard Design
 - Data Visualization
-- Dashboard Design
 - Data Analysis
+
+## Project Structure
+- README.md
+- Bank_Loan_Analysis_Dashboard.twbx
+- Summary_dashboard.png
+- Overview_dashboard.png
+- Details_dashboard.png
+
 
 
 
