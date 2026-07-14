@@ -4,10 +4,10 @@ This project analyzes a bank loan dataset containing 38,576 loan applications to
 ## Dashboard Preview
 
 ### Executive Summary
-![Executive Summary](Summary_Dashboard.png)
+![Executive Summary](Summary_dashboard.png)
 
 ### Loan Overview
-![Loan Overview](Overview_Dashboard.png)
+![Loan Overview](Overview_dashboard.png)
 
 ### Loan Details
-![Loan Details](Details_Dashboard.png)
+![Loan Details](Details_dashboard.png)
