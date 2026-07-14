@@ -76,5 +76,10 @@ Financial institutions need to monitor loan performance, identify high-risk loan
 - Skilled in SQL, Tableau, Power BI, Excel, and Python
  LinkedIn: https://www.linkedin.com/in/abhishek-mishra-ba80b1307
 
+## Live Interactive Dashboard
+Explore the interactive Tableau dashboard here:
+
+Tableau Public: https://public.tableau.com/views/BankLoanAnalysisDashboard_17840279919970/SUMMARY?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 
 
