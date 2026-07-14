@@ -4,6 +4,10 @@ This project analyzes a bank loan dataset containing 38,576 loan applications to
 ## Project Overview
 The Bank Loan Analysis Dashboard is an interactive business intelligence project developed using SQL and Tableau to analyze loan portfolio performance. The dashboard provides a comprehensive view of loan applications, funded amounts, repayments, interest rates, debt-to-income (DTI) ratios, and loan quality. It enables stakeholders to monitor lending performance, identify trends, and make data-driven financial decisions through interactive visualizations.
 
+## Business Problem
+
+Financial institutions need to monitor loan performance, identify high-risk loans, and evaluate borrower behavior to improve lending decisions. This dashboard helps analyze key lending metrics and supports data-driven decision-making.
+
 ## Objectives
 - Analyze overall loan application and funding performance.
 - Track key business KPIs such as Total Loan Applications, Funded Amount, Amount Received, Average Interest Rate, and Average DTI.
@@ -16,6 +20,11 @@ The Bank Loan Analysis Dashboard is an interactive business intelligence project
 - SQL- Data Extraction and KPI calculations
 - Tableau- Interactive dashboard development
 - Microsoft Excel- Data cleaning and preprocess
+
+## Dataset
+- Dataset: Bank Loan Dataset
+- Records: 38,576 Loan Applications
+- Format: CSV
 
 ## Key Performance Indicators (KPIs)
 - Total Loan Applications
@@ -60,7 +69,12 @@ The Bank Loan Analysis Dashboard is an interactive business intelligence project
 - Overview_dashboard.png
 - Details_dashboard.png
 
-
+## Author
+ Abhishek Mishra
+- B.Pharm Graduate
+- Data Analytics Enthusiast
+- Skilled in SQL, Tableau, Power BI, Excel, and Python
+ LinkedIn: https://www.linkedin.com/in/abhishek-mishra-ba80b1307
 
 
 
